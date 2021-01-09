@@ -1,0 +1,7 @@
+package-as: PlexusStatusRD_PvP
+
+ignore:
+ - .pkgmeta
+ - .travis.yml
+ - info.txt
+

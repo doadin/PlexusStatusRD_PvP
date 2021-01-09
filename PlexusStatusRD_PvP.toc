@@ -1,0 +1,42 @@
+#@retail@
+## Interface: 90002
+#@end-retail@
+#@non-retail@
+## Interface: 11306
+#@end-non-retail@
+## Version: @project-version@
+## Title: PlexusStatusRD(PvP)
+## Notes: Debuff List for PvP CC
+## Author: Doadin
+## Grid Author: Pastamancer & Maia
+## Dependencies: PlexusStatusRaidDebuff
+## OptionalDeps: Plexus
+## X-Curse-Project-ID: 434980
+
+BladesEdge.lua
+RuinsofLordaeron.lua
+Dalaran.lua
+Tolviron.lua
+TheTigersPeak.lua
+AshamanesFall.lua
+BlackRookHold.lua
+HookPoint.lua
+Mugambala.lua
+TheRobodrome.lua
+EmpyreanDomain.lua
+
+IsleofConquest.lua
+DeepwindGorge.lua
+AlteracValley.lua
+Ashran.lua
+EyeoftheStorm.lua
+SeethingShore.lua
+TempleofKotmogu.lua
+SilvershardMines.lua
+StrandoftheAncients.lua
+ArathiBasin.lua
+Wintergrasp.lua
+TheBattleforGilneas.lua
+TwinPeaks.lua
+WarsongGulch.lua
+TheHeartland.lua
