@@ -1,2 +1,2 @@
 -- local zone = "Alterac Valley"
-local zoneid = 2597
+local zoneid = 1537

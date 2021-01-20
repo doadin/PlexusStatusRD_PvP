@@ -1,2 +1,2 @@
 -- local zone = "Warsong Gulch"
-local zoneid = 3277
+local zoneid = 92

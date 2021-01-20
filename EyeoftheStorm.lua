@@ -1,2 +1,2 @@
 -- local zone = "Eye of the Storm"
-local zoneid = 3820
+local zoneid = 112

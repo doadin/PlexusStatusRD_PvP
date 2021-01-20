@@ -1,2 +1,2 @@
 -- local zone = "Ashran"
-local zoneid = 8485
+local zoneid = 1478

@@ -1,2 +1,2 @@
 -- local zone = "Arathi Basin"
-local zoneid = 3358
+local zoneid = 93

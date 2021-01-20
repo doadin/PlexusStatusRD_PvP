@@ -1,2 +1,2 @@
 -- local zone = "Strand of the Ancients"
-local zoneid = 4384
+local zoneid = 128

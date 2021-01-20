@@ -1,2 +1,2 @@
 -- local zone = "Ruins of Lordaeron"
-local zoneid = 3968
+local zoneid = 908

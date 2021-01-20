@@ -1,2 +1,2 @@
 -- local zone = "Twin Peaks"
-local zoneid = 5031
+local zoneid = 206

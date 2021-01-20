@@ -1,2 +1,2 @@
 -- local zone = "Seething Shore"
-local zoneid = 9136
+local zoneid = 907

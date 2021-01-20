@@ -1,2 +1,2 @@
 -- local zone = "The Battle for Gilneas"
-local zoneid = 5449
+local zoneid = 275

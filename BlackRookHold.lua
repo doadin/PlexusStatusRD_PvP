@@ -1,2 +1,2 @@
 -- local zone = "Black Rook Hold Arena"
-local zoneid = 7816
+local zoneid = 793
