@@ -13,17 +13,17 @@
 ## OptionalDeps: Plexus
 ## X-Curse-Project-ID: 434980
 
-BladesEdge.lua
+#BladesEdge.lua
 RuinsofLordaeron.lua
-Dalaran.lua
-Tolviron.lua
-TheTigersPeak.lua
-AshamanesFall.lua
+#Dalaran.lua
+#Tolviron.lua
+#TheTigersPeak.lua
+#AshamanesFall.lua
 BlackRookHold.lua
-HookPoint.lua
-Mugambala.lua
-TheRobodrome.lua
-EmpyreanDomain.lua
+#HookPoint.lua
+#Mugambala.lua
+#TheRobodrome.lua
+#EmpyreanDomain.lua
 
 IsleofConquest.lua
 DeepwindGorge.lua
@@ -39,4 +39,4 @@ Wintergrasp.lua
 TheBattleforGilneas.lua
 TwinPeaks.lua
 WarsongGulch.lua
-TheHeartland.lua
+#TheHeartland.lua
