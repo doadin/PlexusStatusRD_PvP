@@ -9,8 +9,7 @@
 ## Notes: Debuff List for PvP CC
 ## Author: Doadin
 ## Grid Author: Pastamancer & Maia
-## Dependencies: PlexusStatusRaidDebuff
-## OptionalDeps: Plexus
+## Dependencies: Plexus, PlexusStatusRaidDebuff
 ## X-Curse-Project-ID: 434980
 
 #BladesEdge.lua
