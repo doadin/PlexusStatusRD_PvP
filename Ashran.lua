@@ -1,2 +1,2 @@
 -- local zone = "Ashran"
-local zoneid = 1478
+local zoneid = 1478 --luacheck: ignore

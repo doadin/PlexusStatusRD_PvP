@@ -1,2 +1,2 @@
 -- local zone = "Twin Peaks"
-local zoneid = 206
+local zoneid = 206 --luacheck: ignore
