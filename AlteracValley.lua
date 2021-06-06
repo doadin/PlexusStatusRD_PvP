@@ -1,2 +1,2 @@
 -- local zone = "Alterac Valley"
-local zoneid = 1537 --luacheck: ignore
+local zoneid = 91 --luacheck: ignore

@@ -1,2 +1,2 @@
 -- local zone = "Wintergrasp"
-local zoneid = 1334 --luacheck: ignore
+local zoneid = 123 --luacheck: ignore
