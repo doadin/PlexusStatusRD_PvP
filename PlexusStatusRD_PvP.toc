@@ -1,6 +1,6 @@
 ## Interface: 90005
 ## Interface-Retail: 90005
-## Interface-Classic: 11306
+## Interface-Classic: 11307
 ## Interface-BC: 20501
 ## Version: @project-version@
 ## Title: PlexusStatusRD(PvP)
@@ -10,30 +10,16 @@
 ## Dependencies: Plexus, PlexusStatusRaidDebuff
 ## X-Curse-Project-ID: 434980
 
-#BladesEdge.lua
-RuinsofLordaeron.lua
-#Dalaran.lua
-#Tolviron.lua
-#TheTigersPeak.lua
-#AshamanesFall.lua
-BlackRookHold.lua
-#HookPoint.lua
-#Mugambala.lua
-#TheRobodrome.lua
-#EmpyreanDomain.lua
-
-IsleofConquest.lua
-DeepwindGorge.lua
 AlteracValley.lua
-Ashran.lua
-EyeoftheStorm.lua
-SeethingShore.lua
-TempleofKotmogu.lua
-SilvershardMines.lua
-StrandoftheAncients.lua
 ArathiBasin.lua
-Wintergrasp.lua
+Ashran.lua
+DeepwindGorge.lua
+EyeoftheStorm.lua
+IsleofConquest.lua
+SeethingShore.lua
+SilvershardMines.lua
+TempleofKotmogu.lua
 TheBattleforGilneas.lua
 TwinPeaks.lua
 WarsongGulch.lua
-#TheHeartland.lua
+Wintergrasp.lua
