@@ -1,2 +1,2 @@
 -- local zone = "Arathi Basin"
-local zoneid = 93 --luacheck: ignore
+local zoneid = 1366 --luacheck: ignore
