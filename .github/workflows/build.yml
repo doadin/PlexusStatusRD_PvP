@@ -22,6 +22,12 @@ jobs:
         with:
           fetch-depth: 100
 
+      - name: script
+        run: |
+           chmod +x ./gen.sh
+           ./gen.sh
+        shell: bash
+
       - name: Package Retail
         uses: BigWigsMods/packager@master
         with:

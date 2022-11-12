@@ -15,6 +15,12 @@ jobs:
         with:
           fetch-depth: 100
 
+      - name: script
+        run: |
+           chmod +x ./gen.sh
+           ./gen.sh
+        shell: bash
+
       - name: Run luacheck
         uses: BigWigsMods/actions/luacheck@master
         with:
