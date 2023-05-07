@@ -11,6 +11,8 @@
 ## Dependencies: Plexus, PlexusStatusRaidDebuff
 ## X-Curse-Project-ID: 434980
 
+## IconTexture: Interface\AddOns\Plexus\Media\icon
+
 AlteracValley.lua
 ArathiBasin.lua
 Ashran.lua
