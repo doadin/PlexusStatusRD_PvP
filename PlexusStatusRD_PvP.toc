@@ -15,6 +15,7 @@
 
 AlteracValley.lua
 ArathiBasin.lua
+#@retail@
 Ashran.lua
 DeepwindGorge.lua
 EyeoftheStorm.lua
@@ -24,5 +25,8 @@ SilvershardMines.lua
 TempleofKotmogu.lua
 TheBattleforGilneas.lua
 TwinPeaks.lua
+#@end-retail@
 WarsongGulch.lua
+#@retail@
 Wintergrasp.lua
+#@end-retail@
