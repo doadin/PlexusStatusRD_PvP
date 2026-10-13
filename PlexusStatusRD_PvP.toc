@@ -1,5 +1,5 @@
-## Interface: 120100
-## Interface-Retail: 120100
+## Interface: 120105
+## Interface-Retail: 120105
 ## Interface-Classic: 11509
 ## Interface-BCC: 20506
 ## Interface-Wrath: 30403
@@ -15,20 +15,18 @@
 
 ## IconTexture: Interface\AddOns\Plexus\Media\icon
 
-AlteracValley.lua
-ArathiBasin.lua
-#@retail@
-Ashran.lua
-DeepwindGorge.lua
-EyeoftheStorm.lua
-IsleofConquest.lua
-SeethingShore.lua
-SilvershardMines.lua
-TempleofKotmogu.lua
-TheBattleforGilneas.lua
-TwinPeaks.lua
-#@end-retail@
-WarsongGulch.lua
-#@retail@
-Wintergrasp.lua
-#@end-retail@
+AlteracValley.lua [AllowLoadGameType standard]
+ArathiBasin.lua [AllowLoadGameType standard]
+##retail
+Ashran.lua [AllowLoadGameType standard]
+DeepwindGorge.lua [AllowLoadGameType standard]
+EyeoftheStorm.lua [AllowLoadGameType standard]
+IsleofConquest.lua [AllowLoadGameType standard]
+SeethingShore.lua [AllowLoadGameType standard]
+SilvershardMines.lua [AllowLoadGameType standard]
+TempleofKotmogu.lua [AllowLoadGameType standard]
+TheBattleforGilneas.lua [AllowLoadGameType standard]
+TwinPeaks.lua [AllowLoadGameType standard]
+Wintergrasp.lua [AllowLoadGameType standard]
+##retail
+WarsongGulch.lua [AllowLoadGameType standard]
